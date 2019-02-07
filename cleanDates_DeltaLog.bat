@@ -1,0 +1,2 @@
+powershell -Command "(gc 20181205_DeltaLog_clean.csv) -replace 'Date=', '' | Out-File -encoding ASCII  20181205_DeltaLog_clean.csv"
+powershell -Command "(gc 20181205_DeltaLog_clean.csv) -replace ';', ',' | Out-File -encoding ASCII  20181205_DeltaLog_clean.csv"

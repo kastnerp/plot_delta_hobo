@@ -1,0 +1,9 @@
+1"Anz.","Datum Zeit, GMT-05:00",
+2"Druck, in Hg (LGR S/N: 20098500, SEN S/N: 10751992)",
+3"Temp., °F (LGR S/N: 20098500, SEN S/N: 10763331)",
+4"RH, % (LGR S/N: 20098500, SEN S/N: 10763331)",
+5"Sonnenstrahlung, W/m² (LGR S/N: 20098500, SEN S/N: 10775592)",
+6"Temp., °F (LGR S/N: 20098500, SEN S/N: 20496099, LBL: MRT)",
+7"Windgeschwindigkeit, mph (LGR S/N: 20098500, SEN S/N: 20496535)",
+8"Böengeschwindigkeit, mph (LGR S/N: 20098500, SEN S/N: 20496535)",
+9"Windrichtung, ø (LGR S/N: 20098500, SEN S/N: 20496535)"

@@ -1,0 +1,11 @@
+1;Sample interval=  15sec;
+2;Tw; C;
+3;Tg; C;
+4;Ta; C;
+5;Pr;hPa;
+6;RH;%;
+7;Va;m/s;
+8;Tr; C;
+9;WBGT(i); C;
+10;WBGT(o); C;
+11;WCI; C;
